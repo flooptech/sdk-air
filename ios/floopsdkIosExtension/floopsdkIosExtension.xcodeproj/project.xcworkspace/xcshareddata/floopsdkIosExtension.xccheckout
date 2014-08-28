@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C7C9D0FB-A7D7-483C-8ECF-08892D9E748B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>floopsdkIosExtension</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7FA5FCF5-7150-4A69-A75B-D4DEFAA342BA</key>
+		<string>ssh://bitbucket.org/ululab/fractions.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NativeExtensions/Ululab-floopsdk/ios/floopsdkIosExtension/floopsdkIosExtension.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7FA5FCF5-7150-4A69-A75B-D4DEFAA342BA</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://bitbucket.org/ululab/fractions.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7FA5FCF5-7150-4A69-A75B-D4DEFAA342BA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7FA5FCF5-7150-4A69-A75B-D4DEFAA342BA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>fractions</string>
+		</dict>
+	</array>
+</dict>
+</plist>

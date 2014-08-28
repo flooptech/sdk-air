@@ -1,0 +1,16 @@
+<extension xmlns="http://ns.adobe.com/air/extension/3.8">
+	<id>com.ululab.nativeExtensions.floopsdk</id>
+	<versionNumber>1.0</versionNumber>
+	<platforms>
+		<platform name="iPhone-ARM">
+			<applicationDeployment>
+				<nativeLibrary>libfloopsdkIosExtension.a</nativeLibrary>
+				<initializer>floopsdkExtensionInitializer</initializer>
+				<finalizer>floopsdkExtensionFinalizer</finalizer>
+			</applicationDeployment>
+		</platform>
+		<platform name="default">
+			<applicationDeployment/>
+		</platform>
+	</platforms>
+</extension>

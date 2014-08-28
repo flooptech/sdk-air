@@ -1,0 +1,4 @@
+# General
+temp/*
+test/bin/*
+build.config
